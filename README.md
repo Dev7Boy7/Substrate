@@ -1,7 +1,7 @@
 # Substrate
 Learning
 
-21/0/2023 
+21/06/2023 
 
 Begin to learn SUBSTRATE -
 
