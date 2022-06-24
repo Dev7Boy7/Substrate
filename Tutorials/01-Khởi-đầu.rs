@@ -30,3 +30,6 @@
 // 5. Upgrade a running node 
 
 // các minh họa về các nâng cấp không cần fork bằng các thay đổi các runtime cho các node Substrate đang chạy
+
+
+
