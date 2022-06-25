@@ -20,8 +20,11 @@
       
                   - Mạng ngang hàng phi tập trung để giao tiếp giữa các node 
                   
+                  - Phương pháp đồng thuận để chống lại các hoạt động xấu và bảo về tính liên tục của chuỗi 
                   
-      
+                  - Logic để sắp xếp và xử lý giao dịch đến 
+                  
+                  - 
 
 
 
