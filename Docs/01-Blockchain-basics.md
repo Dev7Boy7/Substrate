@@ -1,4 +1,4 @@
-/* 
+
 
             Blockchain là một sổ cái phi tập trung ghi lại thông tin về một chuỗi các khối .
       
@@ -24,4 +24,4 @@
       
 
 
-*/
+
